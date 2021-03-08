@@ -10,3 +10,5 @@ function remove(items, item) {
     return itemFound;
   }
 }
+
+export { choice, remove };
